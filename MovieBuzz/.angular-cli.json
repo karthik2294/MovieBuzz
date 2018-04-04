@@ -19,6 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css",
+        "../src/assets/CSS/Fontawesome v5.0/css/fontawesome-all.min.css",
         "styles.css"
       ],
       "scripts": [],
