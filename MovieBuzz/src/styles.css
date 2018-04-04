@@ -1,1 +1,141 @@
 /* You can add global styles to this file, and also import other style files */
+
+a{
+    cursor: pointer;
+}
+
+body {
+  
+    padding-bottom: 20px;
+    background-color: #1c1c1c;
+    color: white;
+}
+
+.body-content {
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 60px;
+}
+
+.paddless {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+.borderleft {
+    border-left: solid 1px rgba(187, 182, 182, 0.47);
+}
+
+.borderbottom {
+    border-bottom: solid 1px rgba(187, 182, 182, 0.47);
+}
+
+.borderbottom-2 {
+    border-bottom: solid 1px rgba(228, 226, 226, 0.56);
+}
+
+.paddingbottom {
+    padding-bottom: 10px;
+}
+
+.marginright {
+    margin-right: 5px;
+}
+
+.borderbottom2 {
+    border-bottom: solid 1px rgba(255, 255, 255, 0.08);
+}
+
+.col-lg-12.paddingbottom16.registerbg {
+    background-color: #333333;
+}
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+
+li {
+    list-style: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+
+.color1 {
+    color: #dd4e3f !important;
+}
+
+
+.color2 {
+    color: #8c8d8d;
+}
+
+
+.color3 {
+    color: #0184b6;
+}
+
+.color4 {
+    color: #e6b47b;
+}
+
+.btn-bg-1 {
+    background-color: #0184b6;
+    color: #000;
+}
+
+
+.bgcolor-1 {
+    background-color: #353535;
+    color: #ffffff;
+    border-bottom: 8px solid #e7e043;
+}
+
+
+.bgcolor-red {
+    background-color: red;
+}
+
+.bgcolor-green {
+    background-color: green;
+}
+
+.bgcolor-grey {
+    background-color: grey;
+}
+
+.bgcolor-pink {
+    background-color: deeppink;
+}
+
+.bgcolor-yellow {
+    background-color: yellow;
+}
+
+.bgcolor-skyblue {
+    background-color: deepskyblue;
+}
+
+.bgcolor-violet {
+    background-color: darkviolet;
+}
+
+.bgcolor-darkblue {
+    background-color: blue;
+}
+/* 
+
+
+.container-fluid.classified {
+    height: 400px;
+    background-image: url('../images/Classifieds-Banner.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+} */
