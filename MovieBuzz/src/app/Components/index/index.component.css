@@ -1,0 +1,232 @@
+btn-primary {
+    color: #1c1c1c !important;
+    background-color: #0083B7 !important;
+    border-color: #0083B7 !important;
+}
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: #0083B7;
+        border-color: #0083B7;
+    }
+
+    .btn-primary:active:hover, .btn-primary.active:hover, .open > .dropdown-toggle.btn-primary:hover, .btn-primary:active:focus, .btn-primary.active:focus, .open > .dropdown-toggle.btn-primary:focus, .btn-primary:active.focus, .btn-primary.active.focus, .open > .dropdown-toggle.btn-primary.focus {
+        color: #fff;
+        background-color: #0083B7;
+        border-color: #0083B7;
+    }
+
+button.btn.btn-primary.pull-right:active {
+    color: #000;
+    background-color: #0083B7;
+    border-color: #0083B7;
+}
+
+
+.margintop5 {
+    margin-top: 45px;
+}
+
+.indexcontent {
+
+    padding: 25px;
+}
+
+.container-fluid.homebanner {
+    height: 400px;
+    margin-top: -61px;
+    background-image: url('../../../assets/Images/banner-bg1.png')
+   }
+
+.container-fluid.jobsdetail {
+    height: 400px;
+}
+
+.movie-title {
+    padding: 6px;
+    margin-left: 20px;
+    overflow-x:hidden;
+}
+
+#overlay {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 400px;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+}
+
+.hovereffect {
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+}
+
+.box {
+    margin-top: 22px;
+    margin-left: 10%;
+    position: relative;
+    width: 80%;
+    cursor: pointer;
+    -webkit-box-shadow: -1px 0px 19px 1px rgba(158,147,158,0.89);
+    -moz-box-shadow: -1px 0px 19px 1px rgba(158,147,158,0.89);
+    box-shadow: -1px 0px 19px 1px rgba(158,147,158,0.89);
+}
+
+.catinner_box {
+    margin-top: 22px;
+    margin-left: 10%;
+    width: 80%;
+    padding-left: 0px;
+    border-left-width: 5px;
+    left: 15px;
+    box-shadow: -1px 0px 19px 1px rgba(158,147,158,0.89);
+}
+
+.cat_box {
+    position: relative;
+    width: 100%;
+    float: left;
+    background-color: #464646;
+    -webkit-box-shadow: -1px 0px 19px 1px rgba(158,147,158,0.89);
+    -moz-box-shadow: -1px 0px 19px 1px rgba(158,147,158,0.89);
+    box-shadow: -1px 0px 19px 1px rgba(158,147,158,0.89);
+}
+
+.addbox {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    cursor: pointer;
+}
+
+.movieposter {
+    display: block;
+    width: 100%;
+    height: auto;
+    min-height: 231px;
+    max-height: 300px;
+}
+
+.posteroverlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+}
+
+.box:hover .posteroverlay {
+    height: 100%;
+}
+
+.postercontent {
+    color: #fff;
+    font-size: 20px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    width: 90%;
+}
+
+.indexheading {
+    color: #666666;
+    text-shadow: 0px 15px 5px rgba(0,0,0,0.1), 10px 20px 5px rgba(0,0,0,0.05), -10px 20px 5px rgba(0,0,0,0.05);
+}
+
+
+
+.panel-custom {
+    border: 1px solid #484545cf;
+}
+
+
+.panel-body {
+    padding: 15px;
+    background-color: #424040;
+}
+
+.jobboxes {
+    padding-top: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 233px;
+    cursor: pointer;
+    margin-left: 50px;
+    background-color: #928d8d;
+}
+
+span.h5.color2.heading {
+    font-weight: bold;
+    color: #fbcb70;
+}
+
+.jobboxinner {
+    padding-top: 10px;
+    padding-left: 7px;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+
+.panel-footer.jobboxinner {
+    margin-top: 12px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: #de5841;
+    color: #fff;
+    position: absolute;
+    bottom: 5px;
+}
+
+
+.panel-body.events {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+a.list-group-item.events:last-child {
+    border-bottom: none !important;
+}
+
+
+
+.classified_index_div {
+    margin-left: 50px;
+    text-align: center;
+}
+
+.margintop2 {
+    margin-top: 11px;
+}
+
+.job-Bg {
+    width: 100%;
+    height: 86px;
+}
+
+.jobheading {
+    padding-left: 35px;
+    padding-top: 16px;
+}
+
+

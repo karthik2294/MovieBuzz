@@ -2,6 +2,7 @@
 
 a{
     cursor: pointer;
+    color: black;
 }
 
 body {
@@ -84,6 +85,15 @@ a:hover {
 
 .color4 {
     color: #e6b47b;
+}
+
+.colorblack{
+    color:#000;
+}
+
+
+.colorblue{
+    color: #0e6c90;
 }
 
 .btn-bg-1 {

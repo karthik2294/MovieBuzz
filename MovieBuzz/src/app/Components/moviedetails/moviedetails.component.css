@@ -1,0 +1,40 @@
+
+p.color2.suggestionmovies {
+    margin-bottom: 0px;
+}
+
+
+h4.list-group-item-heading.showdate {
+    color: #ffffff;
+}
+
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #5f5c5c;
+}
+
+
+span.list-group-item {
+    background-color: #404040;
+}
+
+span.list-group-item:hover, button.list-group-item:hover, span.list-group-item:focus, button.list-group-item:focus {
+        color: #FFF;
+        text-decoration: none;
+        background-color: #404040;
+    }
+
+a.list-group-item {
+    background-color: #404040;
+}
+
+    a.list-group-item:hover, button.list-group-item:hover, a.list-group-item:focus, button.list-group-item:focus {
+        color: #FFF;
+        text-decoration: none;
+        background-color: #404040;
+    }
