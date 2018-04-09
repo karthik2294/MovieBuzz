@@ -150,3 +150,17 @@ i.fas.fa-caret-up {
     margin-bottom: 0px;
     border-radius: 0px;
 }
+
+.modal-dialog {
+    width: 600px;
+    margin: 200px auto;
+}
+
+h4.modal-title{
+color: #1B1B1B;
+text-align: center;
+}
+
+label {
+    color: black !important;
+}
